@@ -4,7 +4,7 @@ I'm **Aftab073**, a passionate software developer with a knack for creating inno
 
 ## About Me
 
-Although I don't have a specific location or current company mentioned, I am an enthusiastic coder who enjoys tackling challenging problems and learning new skills. My GitHub profile reflects my journey in software development!
+Currently I'm open for oppurtunities. Although I don't have a specific location or current company, I am an enthusiastic coder who enjoys tackling challenging problems and learning new skills. My GitHub profile reflects my journey in software development!
 
 ## Skills & Technologies
 
