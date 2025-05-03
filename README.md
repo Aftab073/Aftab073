@@ -13,6 +13,8 @@ Currently I'm open for oppurtunities. Although I don't have a specific location 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -35,17 +37,16 @@ Currently I'm open for oppurtunities. Although I don't have a specific location 
 ###
 ## Top Projects
 
+-[Ai-search-tool](https://github.com/Aftab073/Ai-search-tool) A Full-stack search tool integrated with Youtube and Google API to deliver accurate results. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
 - [Taskful-Api](https://github.com/Aftab073/Taskful-Api) - A task management API built with Python and Django. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
 - [Ai-chatbot-with-RAG](https://github.com/Aftab073/Ai-chatbot-with-RAG) - An AI chatbot project leveraging Retrieval-Augmented Generation. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
 - [Django-Full-stack](https://github.com/Aftab073/Django-Full-stack) - A comprehensive full-stack web application using Django. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
 - [React-Redux](https://github.com/Aftab073/React-Redux) - A React application integrated with Redux for state management. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
-- [Jarvis](https://github.com/Aftab073/Jarvis) - A personal assistant project named Jarvis. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
+
 
 ## GitHub Stats
 
-🔹 **Public Repositories:** 13  
-🔹 **Followers:** 0  
-🔹 **Following:** 0  
+🔹 **Public Repositories:** 19   
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab073&show_icons=true&theme=radical)
 
 ## Recent Activity
