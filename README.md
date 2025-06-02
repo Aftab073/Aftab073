@@ -1,70 +1,85 @@
-## Hi there! 👋
+<!-- Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFEF&width=435&lines=Hi+I'm+Aftab+Tamboli+%F0%9F%91%8B;FastAPI+%7C+Django+%7C+React+Developer;Building+AI-powered+Web+Apps" alt="Typing SVG" />
 
-I'm **Aftab073**, a passionate software developer with a knack for creating innovative solutions. 🌟 I love exploring new technologies and building impactful projects!
+---
 
-## About Me
+## 🚀 About Me
 
-Currently I'm open for oppurtunities. Although I don't have a specific location or current company, I am an enthusiastic coder who enjoys tackling challenging problems and learning new skills. My GitHub profile reflects my journey in software development!
+I'm **Aftab Tamboli**, a passionate **Full Stack Developer** from India 🇮🇳  
+Currently diving deep into **AI-powered search tools**, **FastAPI**, and **3D web UIs**.  
+I love solving problems with **clean code**, open-source contributions, and late-night debugging snacks. 🍕🧃
 
-## Skills & Technologies
+---
+
+## 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
-###
-## Top Projects
+---
 
--[Ai-search-tool](https://github.com/Aftab073/Ai-search-tool) A Full-stack search tool integrated with Youtube and Google API to deliver accurate results. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
-- [Taskful-Api](https://github.com/Aftab073/Taskful-Api) - A task management API built with Python and Django. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
-- [Ai-chatbot-with-RAG](https://github.com/Aftab073/Ai-chatbot-with-RAG) - An AI chatbot project leveraging Retrieval-Augmented Generation. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
-- [Django-Full-stack](https://github.com/Aftab073/Django-Full-stack) - A comprehensive full-stack web application using Django. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
-- [React-Redux](https://github.com/Aftab073/React-Redux) - A React application integrated with Redux for state management. ⭐️ 0 Stars, 🛠️ 0 Forks, 🐛 0 Issues
+<details>
+  <summary>📂 <strong>Featured Projects</strong></summary>
+  
+- 🔍 [**AI Search Tool**](https://github.com/Aftab073/Ai-search-tool): Full-stack intelligent search engine with Google/Youtube API  
+- ✅ [**Taskful API**](https://github.com/Aftab073/Taskful-Api): A task manager API built using Django REST Framework  
+- 💬 [**AI Chatbot (RAG)**](https://github.com/Aftab073/Ai-chatbot-with-RAG): Retrieval-Augmented Generation chatbot  
+- 🌐 [**Django Full Stack**](https://github.com/Aftab073/Django-Full-stack): Production-ready Django app  
+- ⚛️ [**React Redux**](https://github.com/Aftab073/React-Redux): Modern frontend using Redux state management
 
+</details>
 
-## GitHub Stats
+---
 
-🔹 **Public Repositories:** 19   
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab073&show_icons=true&theme=radical)
+## 📈 GitHub Stats
 
-## Recent Activity
+![Aftab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab073&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab073&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aftab073&theme=radical&hide_border=true)
 
-- **Pushed to [Taskful-Api](https://github.com/Aftab073/Taskful-Api)** - Added main Urls. 📝  
-- **Pushed to [Taskful-Api](https://github.com/Aftab073/Taskful-Api)** - Updated Serializer. 📝  
-- **Pushed to [Ai-chatbot-with-RAG](https://github.com/Aftab073/Ai-chatbot-with-RAG)** - Created the repository. 📝  
-- **Pushed to [Django-Full-stack](https://github.com/Aftab073/Django-Full-stack)** - Added search functionality. 📝  
-- **Pushed to [Jarvis](https://github.com/Aftab073/Jarvis)** - Initial commit. 📝
+---
 
-## Connect with Me
+## 🔥 Recent GitHub Activity
 
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> : https://www.linkedin.com/in/aftabt7
+- 🛠️ Updated `Serializer` on [Taskful-Api](https://github.com/Aftab073/Taskful-Api)
+- 🔧 Added main URLs on [Taskful-Api](https://github.com/Aftab073/Taskful-Api)
+- ✨ Started new repo [Ai-chatbot-with-RAG](https://github.com/Aftab073/Ai-chatbot-with-RAG)
+- 🔍 Integrated search in [Django-Full-stack](https://github.com/Aftab073/Django-Full-stack)
+- 🚀 Pushed initial commit to [Jarvis](https://github.com/Aftab073/Jarvis)
 
-## Certifications
+---
 
-- [Django Rest Api](https://www.udemy.com/certificate/UC-391f811f-7cd3-49e2-add8-dc18a7da09ae/) - Udemy, 2025
+## 📜 Certifications
 
-- [JavaScript](https://www.udemy.com/certificate/UC-d47c37e1-ef2b-484d-a3d5-06ccf7173dc6/) - Udemy, 2024
+- 🛡️ [Django REST API](https://www.udemy.com/certificate/UC-391f811f-7cd3-49e2-add8-dc18a7da09ae/)
+- ⚙️ [JavaScript](https://www.udemy.com/certificate/UC-d47c37e1-ef2b-484d-a3d5-06ccf7173dc6/)
+- 💾 [MongoDB](https://www.udemy.com/certificate/UC-fecd555e-49b5-4c22-8f5a-00cea1fe5905/)
 
-- [MongoDB](https://www.udemy.com/certificate/UC-fecd555e-49b5-4c22-8f5a-00cea1fe5905/) - Udemy, 2024
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Aftab%20Tamboli-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aftabt7)
+[![GitHub Badge](https://img.shields.io/badge/-@Aftab073-171515?style=for-the-badge&logo=github)](https://github.com/Aftab073)
+
+---
+
+## 💡 Quote for You
+
+> "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+</p>
