@@ -36,10 +36,6 @@ Currently building:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langgraph/langgraph-original.svg" height="40" />
-
-
   <img src="https://skillicons.dev/icons?i=git,github,tailwind,vercel,linux" height="40" />
   <img src="https://img.shields.io/badge/LangChain-00ffcc?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/LangGraph-663399?style=for-the-badge&logo=networkx&logoColor=white" />
