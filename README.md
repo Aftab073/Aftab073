@@ -1,63 +1,93 @@
-<!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFEF&width=435&lines=Hi+I'm+Aftab+Tamboli+%F0%9F%91%8B;FastAPI+%7C+Django+%7C+React+Developer;Building+AI-powered+Web+Apps" alt="Typing SVG" />
+<!-- 🧠 Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFEF&width=435&lines=Hi+I'm+Aftab+Tamboli+%F0%9F%91%8B;FastAPI+%7C+Django+%7C+React+Developer;Building+AI-powered+Web+Apps" alt="Typing SVG" />
+</p>
+
+<h1 align="center">🚀 Full Stack Developer | FastAPI | Django | React</h1>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
 I'm **Aftab Tamboli**, a passionate **Full Stack Developer** from India 🇮🇳  
-Currently diving deep into **AI-powered search tools**, **FastAPI**, and **3D web UIs**.  
-I love solving problems with **clean code**, open-source contributions, and late-night debugging snacks. 🍕🧃
+I build **AI-powered applications**, modern dashboards, and automation tools using FastAPI, Django, and React.  
+Currently exploring LangChain, RAG pipelines, and 3D web interfaces with Three.js.
+
+🎯 **I love building real-world tools that solve real problems.**  
+💡 Open to collaboration and full-time opportunities in backend, full stack, or AI-tool development.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-</div>
+</p>
 
 ---
 
-<details>
-  <summary>📂 <strong>Featured Projects</strong></summary>
-  
-- 🔍 [**AI Search Tool**](https://github.com/Aftab073/Ai-search-tool): Full-stack intelligent search engine with Google/Youtube API  
-- ✅ [**Taskful API**](https://github.com/Aftab073/Taskful-Api): A task manager API built using Django REST Framework  
-- 💬 [**AI Chatbot (RAG)**](https://github.com/Aftab073/Ai-chatbot-with-RAG): Retrieval-Augmented Generation chatbot  
-- 🌐 [**Django Full Stack**](https://github.com/Aftab073/Django-Full-stack): Production-ready Django app  
-- ⚛️ [**React Redux**](https://github.com/Aftab073/React-Redux): Modern frontend using Redux state management
+## 📂 Featured Projects
 
+<details open>
+  <summary><strong>🔍 AI & Web Tools</strong></summary>
+
+- 🤖 [**AI Chatbot with RAG**](https://github.com/Aftab073/Ai-chatbot-with-RAG) — LangChain + Vector DB chatbot  
+- 🔍 [**AI Search Tool**](https://github.com/Aftab073/Ai-search-tool) — Search engine over Google/YouTube APIs using FastAPI
+</details>
+
+<details>
+  <summary><strong>🛠️ Web Development</strong></summary>
+
+- ✅ [**Taskful API**](https://github.com/Aftab073/Taskful-Api) — Task manager API using Django REST Framework  
+- 🌐 [**Django Full Stack**](https://github.com/Aftab073/Django-Full-stack) — Full-stack production-ready Django app  
+- ⚛️ [**React Redux App**](https://github.com/Aftab073/React-Redux) — Modern frontend with Redux
 </details>
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aftab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aftab073&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab073&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aftab073&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aftab073&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aftab073&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab073&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aftab073&theme=radical&margin-w=10&no-frame=true" width="95%" />
+</p>
 
 ---
 
-## 🔥 Recent GitHub Activity
+## 📬 Connect with Me
 
-- 🛠️ Updated `Serializer` on [Taskful-Api](https://github.com/Aftab073/Taskful-Api)
-- 🔧 Added main URLs on [Taskful-Api](https://github.com/Aftab073/Taskful-Api)
-- ✨ Started new repo [Ai-chatbot-with-RAG](https://github.com/Aftab073/Ai-chatbot-with-RAG)
-- 🔍 Integrated search in [Django-Full-stack](https://github.com/Aftab073/Django-Full-stack)
-- 🚀 Pushed initial commit to [Jarvis](https://github.com/Aftab073/Jarvis)
+<p align="left">
+  <a href="mailto:tamboliaftab84@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-tamboliaftab84@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aftabt7">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aftab073">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Optional:
+  <a href="https://aftab-portfolio.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-Site-orange?style=for-the-badge&logo=vercel" />
+  </a>
+  -->
+</p>
 
 ---
 
@@ -69,17 +99,18 @@ I love solving problems with **clean code**, open-source contributions, and late
 
 ---
 
-## 📫 Connect with Me
+## 💬 Developer Quotes
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Aftab%20Tamboli-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aftabt7)
-[![GitHub Badge](https://img.shields.io/badge/-@Aftab073-171515?style=for-the-badge&logo=github)](https://github.com/Aftab073)
+<details open>
+  <summary>💡 Favorite Quotes</summary>
+
+> "Code is like humor. When you have to explain it, it’s bad." — *Cory House*  
+> "Programs must be written for people to read, and only incidentally for machines to execute." — *Harold Abelson*  
+> "Talk is cheap. Show me the code." — *Linus Torvalds*
+</details>
 
 ---
 
-## 💡 Quote for You
-
-> "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
-
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
