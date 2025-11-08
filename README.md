@@ -37,20 +37,7 @@ My interests lie at the intersection of **backend architecture**, **frontend des
 
 
 
----
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aftab073&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aftab073&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aftab073&theme=radical&margin-w=10&no-frame=true" width="95%" />
-</p>
-
----
 
 ## 🎓 Certifications
 
