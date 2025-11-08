@@ -70,11 +70,4 @@ My interests lie at the intersection of **backend architecture**, **frontend des
 
 ---
 
-## 💡 Philosophy
 
-> *“Code is not just about syntax — it’s about structure, clarity, and purpose.”*  
-> *“A great developer doesn’t just write code; they design experiences.”*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
